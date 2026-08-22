@@ -94,6 +94,10 @@ The agent is designed to:
 
 ## Demo
 
-A short demo of the agent is included below.
-
-![Aster & Row Support Agent Demo](demo.gif)
+A short walkthrough demonstrating:
+- Knowledge-base question with citations
+- Order lookup
+- Multi-turn conversation
+- Safe abstention and human handoff
+- Full evaluation suite
+[Watch the demo video](./project%20demo.mp4)
